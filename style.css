@@ -1,9 +1,19 @@
-h1{
-    font-family: Arial, Helvetica, Sans-serif;
-    font-size: 20px,
-}
-p {
-    color: rgb(196, 194, 194);
-    text-align: center;
+Estilizar a cor de fundo do seu site como o css
+body{
+background-color:rgba(40, 201, 0, 0.356)
 }
 
+Estilizar o título principal do seu site:
+ h1{
+color:;
+font-family: center;
+background: ;
+}
+
+Estilizar os parágrafos:
+p{
+color: ;
+font-family: center;
+font-size: ;
+background: ;
+}
