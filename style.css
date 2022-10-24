@@ -6,13 +6,13 @@ background-color:rgba(7, 216, 0, 0.795) ;
 Estilizar o título principal do seu site
  h1{
 color: ;
-font-family: ;
+font-family:justify;
 background: ;
 }
 
 Estilizar os parágrafos
 p{
-color: ;
-font-family: ;
-font-size: ;
+color:black;
+font-family:justify;
+font-size:30px;
 background: ;
