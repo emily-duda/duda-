@@ -1,18 +1,15 @@
-estilizar a cor de fundo do seu site como o css
-body{
-background-color:rgba(7, 216, 0, 0.795) ;
-}
-
-Estilizar o título principal do seu site
  h1{
+
 color: ;
 font-family:justify;
-background: ;
-}
+background-color: black ;
+font-size: 50px;
+text-align: center;
 
-Estilizar os parágrafos
 p{
 color:black;
 font-family:justify;
+background: fixed;
 font-size:30px;
-background: ;
+text-align: center;
+line-height: 60px;
